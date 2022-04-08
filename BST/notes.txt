@@ -1,0 +1,24 @@
+Implemented by
+
+
+C++ --> set map multiset multimap 
+Java --> Tree set and Tree map
+
+
+// RED BLACK Tree
+every node is red or black 
+root is always black 
+no two consecutive reds
+number to all of its descendant leaves should be same  
+
+
+
+APPLICATIONS OF BST
+1.  TO MAINTAIN SORTERD STREAM OF DATA
+2.  TO IMPLEMENT DOUBLY ENDED PRIORITY QUEUE
+3.  to solve problems like 
+    a)  count smaller/greater in a STREAM
+    b)  find kth smallest element in a STREAM
+    c)  find kth largest element in a STREAM
+    d)  find kth smallest element in a STREAM in log(n) time
+    e) floor and ceiling of a number in a STREAM

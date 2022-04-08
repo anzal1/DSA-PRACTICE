@@ -1,0 +1,42 @@
+
+
+
+Naive : o(n-m+1)*m
+naive when all characters of patterns are distinct
+
+
+
+
+Rabin Karp: O((n-m+1)*m)
+but better than naive but goes a bit naive if the hash matches
+
+
+Kmp algo
+O(n) works with pre processed test with hash down technique
+
+
+
+boye moore algo 
+
+
+z algo
+
+
+
+suffix tree O(n)
+
+
+ROLLING hash
+
+T(i+1)= d(ti-txt[i]*d(m-1)) + txt[1+m]
+
+
+
+Horners rule to find hash functions 
+
+
+p=0
+p=p*d +p][0];
+p=p*d +p][1];
+p=p*d +p][2];
+.................in a loop

@@ -1,0 +1,44 @@
+binary heap is always a complete binary tree.
+
+
+Advantages of binary heap
+stored as an array
+easy to insert and delete
+easy to find the minimum element
+easy to find the maximum element
+easy to find the kth smallest element
+easy to find the kth largest element
+easy to find the median element
+easy to find the nth smallest element
+easy to find the nth largest element
+easy to find the nth smallest element in log(n) time
+easy to find the nth largest element in log(n) time
+
+
+
+how can these be found
+left(i) = 2*i + 1
+right(i) = 2*i + 2
+
+parent(i) = (i-1)/2 (floor)
+
+min heap
+every node is less than or equal to its children
+
+max heap
+every node is greater than or equal to its children
+
+
+internally we use an array to store the heap
+
+
+
+
+
+Application of pq
+
+Dijkstra Algorithm
+prims Algorithm
+huffman Algorithm
+Heap sort
+and also every place where a heap is used

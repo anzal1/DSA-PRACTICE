@@ -1,0 +1,12 @@
+Stable and unstable algos
+
+Stable
+ .BUBBLE 
+ .INSERTION
+ .MERGE SORT
+
+
+unstable
+ .SELECTION SORT
+ .QUICK SORT
+ .HEAP SORT

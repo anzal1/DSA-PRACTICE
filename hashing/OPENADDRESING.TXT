@@ -1,0 +1,13 @@
+NO OF SLOTS SHOULD BE GREATER THAN EQUAL TO THR KEYS TO BE INSERTED
+
+
+LINEAR PROBING
+Linearly search for nextempty SLOTS
+
+
+QUADRATIC PROBING
+hash KEYS
+(h+i^2)%M
+
+double HASHING
+2 time hashimg

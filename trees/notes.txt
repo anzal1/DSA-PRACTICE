@@ -1,0 +1,7 @@
+trie
+
+suffix tree
+
+binary index tree
+
+segmented tree 

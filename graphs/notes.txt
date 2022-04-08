@@ -1,0 +1,18 @@
+uses of bfs
+shortest path in an unweighted graph
+crawler in search engine
+peer to peer Networks
+social Networks search
+in garbage collection (cherneys algorithm)
+cycle detection
+ford fulkerson algorithm
+broad casting
+
+
+
+applications of dfs
+cycle detection
+topological sort 
+strongly connected components 
+solving maze and similar puzzles 
+path finding

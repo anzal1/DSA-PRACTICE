@@ -1,0 +1,8 @@
+use of greedy 
+
+activity selection
+fractional knapsack
+job sequencing 
+Prims algorithm
+kruskals 
+and some other problems

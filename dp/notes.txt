@@ -1,0 +1,17 @@
+Application
+solution of sub problems to be used next
+
+DP--->
+Bellman Ford algo
+Floyd wareshall 
+diff utility(LCS)
+search closed words(added distance)
+resourse allocation(0-1)knapsack
+
+
+miminimum insertions and deletions to convert string1 to string2
+shortest common supersequence
+longest palindrome subsequence
+lomgest repeating subsequence
+space optimised LCS
+printing LCS

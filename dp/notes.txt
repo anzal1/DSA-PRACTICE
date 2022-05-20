@@ -15,3 +15,11 @@ longest palindrome subsequence
 lomgest repeating subsequence
 space optimised LCS
 printing LCS
+
+
+Variation of LCS
+1. miminimum deletions to make array sorted
+2 maximum sum increasing subsequence
+3. maximum length bitonic subsequence
+4. building bridges in a graph
+5.the longest chain

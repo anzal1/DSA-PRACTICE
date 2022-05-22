@@ -1,0 +1,7 @@
+Efficient approach to create words in dictionary
+
+-->Search 
+-->Insert
+-->Delete
+-->Prefix Search
+-->Lexicographical ordering 

@@ -24,6 +24,7 @@ bool mycmp(Edge e1, Edge e2)
 }
 const int v = 100;
 int parent[v], ranks[v];
+Edge edge_output[v - 1];
 
 int find(int x)
 {
@@ -71,6 +72,8 @@ int kruskal(Edge a[])
         int y = find(e.dest);
         if (x != y)
         {
+            // output if selected edges are needed
+            edge_output[s] = e;
             res += e.wt;
             union_by_rank(x, y);
             s++;

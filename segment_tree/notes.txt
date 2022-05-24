@@ -1,0 +1,10 @@
+Used for fixed sized array and following two types of operations
+a-> range query O(log n)
+b-> Update a value O(log n)
+
+
+
+size = 2*2^[log2 n]-1
+or <4n-1
+
+

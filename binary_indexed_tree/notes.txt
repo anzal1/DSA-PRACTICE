@@ -1,0 +1,9 @@
+Used for fixed input array and multiple queries of the following types
+
+a-> Prefix operations(Sum ,Product XOR ,OR etc)
+b-> Update a value
+
+It is actually array ,but the concept is tree based
+Requires (O nlogn ) preprocessing time and Theta(n) auxiallary tree
+
+Can also be used for ranged queries;
